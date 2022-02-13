@@ -1,3 +1,5 @@
+メモ
+
 # 『実践Terraform』サンプルコード
 
 このリポジトリでは、『**[実践Terraform](https://www.amazon.co.jp/dp/4844378139/)**』のサンプルコードを公開しています。
