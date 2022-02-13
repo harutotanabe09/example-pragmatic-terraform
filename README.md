@@ -1,5 +1,3 @@
-メモ
-
 # 『実践Terraform』サンプルコード
 
 このリポジトリでは、『**[実践Terraform](https://www.amazon.co.jp/dp/4844378139/)**』のサンプルコードを公開しています。
@@ -23,3 +21,13 @@ tfファイルについては、書籍内のコードのキャプション番号
 ## License
 
 Apache 2 Licensed. See LICENSE for full details.
+
+### 章ごとのまとめ
+
+ECS関連（Web）
+https://github.com/harutotanabe09/example-pragmatic-terraform/tree/main/09/9.4
+
+RDS関連
+https://github.com/harutotanabe09/example-pragmatic-terraform/tree/main/13
+
+
